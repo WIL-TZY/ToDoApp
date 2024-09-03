@@ -1,0 +1,60 @@
+# Node modules
+/node_modules/
+
+# Angular build output
+/dist/
+/out-tsc/
+/.angular/
+
+# Angular environment files (if you have local configuration files)
+src/environments/environment*.ts
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
+*.launch
+
+# Spring Boot specific
+/target/
+
+# Maven
+/.mvn/
+.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# IDE-specific
+.vscode/
+*.code-workspace
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+*.sw?
+
+# Coverage reports
+coverage/
+
+# Spring Boot and other temporary files
+logs/
+*.log
+*.tmp
+*.pid
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.car
+
+# Local configuration files
+.env
+*.local
+*.env
